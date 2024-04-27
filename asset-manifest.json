@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactredux/static/css/main.731ddf36.css",
+    "main.js": "/reactredux/static/js/main.7202e5ca.js",
+    "static/js/787.473e5e43.chunk.js": "/reactredux/static/js/787.473e5e43.chunk.js",
+    "static/media/fa-solid-900.ttf": "/reactredux/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/reactredux/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/reactredux/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/reactredux/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/reactredux/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/reactredux/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/reactredux/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/reactredux/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/reactredux/index.html",
+    "main.731ddf36.css.map": "/reactredux/static/css/main.731ddf36.css.map",
+    "main.7202e5ca.js.map": "/reactredux/static/js/main.7202e5ca.js.map",
+    "787.473e5e43.chunk.js.map": "/reactredux/static/js/787.473e5e43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.731ddf36.css",
+    "static/js/main.7202e5ca.js"
+  ]
+}
